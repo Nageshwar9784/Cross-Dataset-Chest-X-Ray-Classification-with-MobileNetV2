@@ -1,0 +1,18 @@
+{
+  "project": "FRIEND chest X-ray project",
+  "status": "complete",
+  "stage": "complete",
+  "detail": "Training, four evaluations, selective prediction, and figures completed",
+  "overall_percent": 100.0,
+  "completed_steps": [],
+  "remaining_steps": [],
+  "heartbeat_interval_minutes": 30,
+  "updated_at_utc": "2026-11-17T11:04:09+00:00",
+  "elapsed_minutes": 3.6,
+  "device": "cuda",
+  "gpu_name": "Tesla T4",
+  "gpu_memory_gb": 14.6,
+  "batch_size": 16,
+  "excluded_cross_dataset_duplicates": 0,
+  "corrupt_images": 0
+}
