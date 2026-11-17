@@ -1,0 +1,9 @@
+{
+  "A_train": 1728,
+  "A_validation": 192,
+  "A_test": 480,
+  "B_train": 1728,
+  "B_validation": 192,
+  "B_test": 480,
+  "seed": 42
+}

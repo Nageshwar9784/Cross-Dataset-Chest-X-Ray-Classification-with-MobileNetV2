@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "stage": "complete",
+  "detail": "Optimization complete in 7.7 minutes",
+  "overall_percent": 100.0,
+  "updated_at_utc": "2026-11-17T11:11:52+00:00",
+  "best_config": {
+    "id": "c3",
+    "lr": 0.0001,
+    "weight_decay": 0.001,
+    "dropout": 0.3,
+    "unfreeze_blocks": 6
+  }
+}
